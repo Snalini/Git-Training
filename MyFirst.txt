@@ -1,0 +1,8 @@
+This is my First line for git
+Myfirst-gitapp
+git init
+git add
+local changes-git commit
+git push
+git status
+git reset 
